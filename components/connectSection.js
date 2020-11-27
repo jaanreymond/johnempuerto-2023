@@ -86,7 +86,7 @@ const ConnectSection = (props) => {
 
             <div className="connect-cta">
                <a
-                  href="mailto:johnaempuerto@gmail.com?subject=Contact from olivercederborg.com&amp;body=Hey John, I'm contacting you because..."
+                  href="mailto:johnaempuerto@gmail.com?subject=Contact from johnempuerto.vercel.app/&amp;body=Hey John, I'm contacting you because..."
                   onClick={() => logEvent("Contact me", "Contact me button clicked")}
                   className='text-white text-base font-medium bg-primaryBrand hover:bg-primaryGrey ease-in-out duration-300 px-8 py-4 mt-12 inline-flex w-auto'
                >
