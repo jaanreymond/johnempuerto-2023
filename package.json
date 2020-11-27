@@ -1,0 +1,40 @@
+{
+  "name": "johnempuerto-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.0.3",
+    "gsap": "^3.5.1",
+    "next": "^10.0.0",
+    "postcss": "^8.1.10",
+    "react": "16.13.1",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-dom": "16.13.1",
+    "react-ga": "^3.3.0",
+    "react-icons": "^4.1.0",
+    "react-scrollspy": "^3.4.3",
+    "react-scrollspy-nav": "^1.2.4",
+    "react-use-scrollspy": "^2.0.0",
+    "sass": "^1.29.0",
+    "scrolltrigger": "^1.0.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^2.0.1"
+  },
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaanreymond/johnempuerto-nextjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaanreymond/johnempuerto-nextjs.git/issues"
+  },
+  "homepage": "https://github.com/jaanreymond/johnempuerto-nextjs.git#readme",
+  "description": ""
+}
+
