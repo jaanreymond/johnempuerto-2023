@@ -20,7 +20,7 @@ export const workCases = [
     caseImageTwo: "/images/todo-second.webp",
     caseImageMobile: "/images/todo-project-mobile.webp",
     caseImageAlt: "Todo-list by John Empuerto",
-    caseLink: "https://dribbble.com/shots/8248373",
+    caseLink: "#",
     caseLinkText: "Visit site",
   },
   {
