@@ -59,16 +59,16 @@ const Layout = ({ children }) => {
 				<meta name='description' content={siteDescription} />
 				<meta name='keywords' content={siteKeywords} />
 				<meta property='og:title' content="John Empuerto" />
-				<meta property='og:image' content="https://dev.olivercederborg.com/images/preview.png" />
+				<meta property='og:image' content="https://johnempuerto-nextjs-bykkocx2f.vercel.app/images/logo2.png" />
 				<meta property='og:description' content={siteDescription} />
 				<meta property='og:type' content="website" />
 				<meta property='og:site_name' content="John Empuerto" />
-				<meta property='og:url' content="https://olivercederborg.com/" />
+				<meta property='og:url' content="https://johnempuerto-nextjs-bykkocx2f.vercel.app/" />
 				<meta name='twitter:card' content="summary" />
-				<meta name='twitter:site' content="@olivercederborg" />
-				<meta name='twitter:creator' content="@olivercederborg" />
+				<meta name='twitter:site' content="@jaanreymond" />
+				<meta name='twitter:creator' content="@jaanreymond" />
 				<meta name='twitter:description' content={siteDescription} />
-				<meta name='twitter:image' content="https://dev.olivercederborg.com/images/preview.png" />
+				<meta name='twitter:image' content="https://johnempuerto-nextjs-bykkocx2f.vercel.app/images/logo2.png" />
 
 				<link rel='icon' sizes="180x180" href='/apple-touch-icon_1.png' />
 				<link rel='icon' sizes="32x32" href='/favicon_32x32_1.png' />
