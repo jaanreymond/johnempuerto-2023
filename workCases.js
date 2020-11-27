@@ -8,7 +8,7 @@ export const workCases = [
     caseImageMobile: "/images/explora-project-mobile.webp",
     caseImageAlt: "ExploraONE website case by John Empuerto",
     caseLink: "https://exploraone.com",
-    caseLinkText: "Visit Explora",
+    caseLinkText: "Visit site",
   },
   {
     title: "Todo List",
@@ -32,6 +32,17 @@ export const workCases = [
     caseImageMobile: "/images/nordsjaelland-osteopati-project-mobile.webp",
     caseImageAlt: "nordsjaelland osteopati og fysioterapi wordpress website by John Empuerto",
     caseLink: "https://nordsjaelland-osteopati.dk/",
+    caseLinkText: "Visit site",
+  },
+  {
+    title: "Github Search Users",
+    category: "Web Application",
+    description: "A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.",
+    caseBackground: "/images/tablet-background.webp",
+    caseImage: "/images/github-case-tablet.webp",
+    caseImageMobile: "/images/github-project-mobile.webp",
+    caseImageAlt: "github user search  by John Empuerto",
+    caseLink: "https://githubusersearchreact.netlify.app/",
     caseLinkText: "Visit site",
   },
   
