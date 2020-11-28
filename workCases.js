@@ -45,6 +45,18 @@ export const workCases = [
     caseLink: "https://githubusersearchreact.netlify.app/",
     caseLinkText: "Visit site",
   },
+  {
+    title: "Personal Website V1",
+    category: "WordPress Website",
+    description: "My first personal website built with HTML, CSS, Javascript and hosted on GitHub Pages.",
+    caseBackground: "/images/tablet-background.webp",
+    caseImage: "/images/johnempuerto-case-tablet.webp",
+    caseImageMobile: "/images/johnempuerto-project-mobile.webp",
+    caseImageAlt: "Personal Website by John Empuerto",
+    caseLink: "https://jaanreymond.github.io/johnempuertoo/",
+    caseLinkText: "Visit site",
+  },
+  
   
 ]
 
