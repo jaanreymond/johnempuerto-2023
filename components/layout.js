@@ -59,7 +59,7 @@ const Layout = ({ children }) => {
 				<meta name='description' content={siteDescription} />
 				<meta name='keywords' content={siteKeywords} />
 				<meta property='og:title' content="John Empuerto" />
-				<meta property='og:image' content="https://johnempuerto-nextjs-bykkocx2f.vercel.app/images/logo2.png" />
+				<meta property='og:image' content="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4b408c108634953.5fc228f0a6bbf.png" />
 				<meta property='og:description' content={siteDescription} />
 				<meta property='og:type' content="website" />
 				<meta property='og:site_name' content="John Empuerto" />
