@@ -47,7 +47,7 @@ export const workCases = [
   },
   {
     title: "Personal Website V1",
-    category: "WordPress Website",
+    category: "Web Development",
     description: "My first personal website built with HTML, CSS, Javascript and hosted on GitHub Pages.",
     caseBackground: "/images/tablet-background.webp",
     caseImage: "/images/johnempuerto-case-tablet.webp",
@@ -56,8 +56,6 @@ export const workCases = [
     caseLink: "https://jaanreymond.github.io/johnempuertoo/",
     caseLinkText: "Visit site",
   },
-  
-  
 ]
 
 export default workCases;
