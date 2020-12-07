@@ -35,7 +35,7 @@ export const workCases = [
   {
     title: "ExploraOne",
     category: "Web Development",
-    description: `ExploraOne is a Filipino travel agency that offers affordable quality trips all over the world. The work I do for this site consists of helping them building/maintaining their Site with multiple language layers. `,
+    description: `ExploraOne is a Filipino travel agency that offers affordable quality trips all over the world. The work I do for this site consists of helping them building/maintaining their Site with multiple language layers. The site was built with React and GatsbyJS. `,
     caseBackground: "/images/tablet-background.webp",
     caseImage: "/images/explora-case-tablet.webp",
     caseImageMobile: "/images/explora-project-mobile.webp",
