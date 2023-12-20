@@ -134,7 +134,11 @@ const AboutSection = (props) => {
                   </div>
 
                   <p className='aboutme-content text-greyText font-normal text-base mt-6 leading-loose'>
+<<<<<<< HEAD
                      I'm John Raymond Empuerto, 21 years old and from the Philippines. <br></br>Digital design has been an interest of mine for many years, and I work with anything from logo design to UI/UX design and front-end development. <br></br>All the skills and tools I use, are self-taught over many years of practice and expanding my horizons.
+=======
+                     I'm John Raymond Empuerto, 18 years old and from the Philippines. <br></br>Digital design has been an interest of mine for many years, and I work with anything from logo design to UI design and front-end development. <br></br>All the skills and tools I use, are self-taught over many years of practice and expanding my horizons.
+>>>>>>> new-branch
                   </p>
 
                   <div id="skills" className='flex flex-row items-center mt-12'>
@@ -165,7 +169,11 @@ const AboutSection = (props) => {
                <div className='flex w-9/12 md:w-5/12 justify-end'>
                   <img
                      id="about-img"
+<<<<<<< HEAD
                      src='/images/about-john.webp'
+=======
+                     src='/images/about-john.png'
+>>>>>>> new-branch
                      alt='About John Empuerto'
                      className='h-full md:max-h-sm w-full mt-20 md:mt-30 object-contain pointer-events-none'
                   />

@@ -96,12 +96,20 @@ const ConnectSection = (props) => {
          </div>
          <footer className='container pb-10 text-gray-600 flex flex-col-reverse md:flex-row justify-between items-center lg:items-center'>
             <p className='hover:text-greyText ease-in-out duration-300 mb-5 md:mb-0'>
+<<<<<<< HEAD
                &copy; 2023 John Empuerto
+=======
+               &copy; 2020 John Empuerto
+>>>>>>> new-branch
 					</p>
 
             <div className='flex flex-row text-white mb-10 md:mb-0'>
                <a
+<<<<<<< HEAD
                   href='https://www.behance.net/janreymond'
+=======
+                  href='https://www.behance.net/johnempuerto'
+>>>>>>> new-branch
                   target='_blank'
                   className='text-xl mx-1 p-4 bg-primaryGrey hover:bg-primaryBrand ease-in-out duration-300'
                >
@@ -115,7 +123,11 @@ const ConnectSection = (props) => {
                   <FaGithub />
                </a>
                <a
+<<<<<<< HEAD
                   href='https://www.linkedin.com/in/jempuerto/'
+=======
+                  href='https://www.linkedin.com/in/john-raymond-empuerto-718b941a3/'
+>>>>>>> new-branch
                   target='_blank'
                   className='text-xl mx-1 p-4 bg-primaryGrey hover:bg-primaryBrand ease-in-out duration-300'
                >

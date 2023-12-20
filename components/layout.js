@@ -87,7 +87,11 @@ const Layout = ({ children }) => {
 						<div>
 							<AnchorLink href='#hero'>
 								<img
+<<<<<<< HEAD
 									src='/images/logo3.svg'
+=======
+									src='/images/logo2.png'
+>>>>>>> new-branch
 									alt='John Empuerto Logo'
 									className='h-8 hover:opacity-70 ease-in-out duration-200'
 								/>

@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@babel/runtime": "^7.23.6",
     "autoprefixer": "^10.4.16",
     "gsap": "^3.5.1",
@@ -16,6 +17,15 @@
     "react": "^18.2.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^18.2.0",
+=======
+    "autoprefixer": "^10.0.3",
+    "gsap": "^3.5.1",
+    "next": "^10.0.0",
+    "postcss": "^8.1.10",
+    "react": "16.13.1",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-dom": "16.13.1",
+>>>>>>> new-branch
     "react-ga": "^3.3.0",
     "react-icons": "^4.1.0",
     "react-scrollspy": "^3.4.3",
@@ -38,3 +48,7 @@
   "homepage": "https://github.com/jaanreymond/johnempuerto-nextjs.git#readme",
   "description": ""
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> new-branch
